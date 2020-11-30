@@ -45,7 +45,7 @@ MRA: 明确心血管解剖和结构以及组织组成特点
 
   ![](http://file.sdnu.tech/fc57cf6b-a3d3-5f83-3c62-e0a6ff193755.png)
 
-  # 2.Analysis of fMRI Data
+## 2.Analysis of fMRI Data
 
   fMRI 非入侵、无害。
 
