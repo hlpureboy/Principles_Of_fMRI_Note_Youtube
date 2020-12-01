@@ -85,6 +85,48 @@ MRA: 明确心血管解剖和结构以及组织组成特点
   - prediction 
     - ![](http://file.sdnu.tech/53d8048a-0190-c8fc-0911-684e6f9f8ee2.png)
 
+## 3.fMRI Data Structure & Terminology
+
+Spatial and Temporal Resolution
+
+- Temportal Resolution 
+
+  - how quickly each individual image is acquired （TR）
+
+- Spatial Resolution
+
+  - distinguish changes in an image across different spatial locations
+
+- T1
+
+  - 高空间分辨率
+  - 低时间分辨率
+  - 可区分不同的组织
+
+- T2
+
+  - 低空间分辨率
+  - 高时间分辨率
+  - 实验过程中的信号改变
+
+![](http://file.sdnu.tech/a475bb24-5a7a-0e00-46e6-6dafcce89949.png)
+
+ MRI/fMRi -> axial slices -> 顺序扫描、间隔扫描
+
+![3fc2c476-c334-1346-3998-4f04393a29ae.png](http://file.sdnu.tech/3fc2c476-c334-1346-3998-4f04393a29ae.png)
+
+
+
+![1f8a71e5-3e29-2383-5de1-defda4adb205.png](http://file.sdnu.tech/1f8a71e5-3e29-2383-5de1-defda4adb205.png)
+
+
+
+
+
+ 
+
+  
+
 补充内容
 
   1. [youtube  Principles of fMRI (part 1)](https://www.youtube.com/watch?v=ZL-Tr1KSMKY&list=PLfXA4opIOVrGHncHRxI3Qa5GeCSudwmxM)
