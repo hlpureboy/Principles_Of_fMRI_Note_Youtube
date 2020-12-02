@@ -119,13 +119,19 @@ Spatial and Temporal Resolution
 
 ![1f8a71e5-3e29-2383-5de1-defda4adb205.png](http://file.sdnu.tech/1f8a71e5-3e29-2383-5de1-defda4adb205.png)
 
+## 4. Psychological Questions and Inference
 
+![5d76c0c8-32c7-5cf6-021e-c004aafa0298.png](http://file.sdnu.tech/5d76c0c8-32c7-5cf6-021e-c004aafa0298.png)
+
+![f1b8e4ee-05bb-43f5-d27a-cd0b29568c3b.png](http://file.sdnu.tech/f1b8e4ee-05bb-43f5-d27a-cd0b29568c3b.png)
 
 
 
  
 
-  
+  ![b090f0e0-6ffb-bedd-f0e8-3c462509fbe8.png](http://file.sdnu.tech/b090f0e0-6ffb-bedd-f0e8-3c462509fbe8.png)
+
+
 
 补充内容
 
