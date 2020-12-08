@@ -131,6 +131,31 @@ Spatial and Temporal Resolution
 
   ![b090f0e0-6ffb-bedd-f0e8-3c462509fbe8.png](http://file.sdnu.tech/b090f0e0-6ffb-bedd-f0e8-3c462509fbe8.png)
 
+## 5. Basic MR Physics
+
+**what mri Measures**
+
+- MRI is an extremely versatile imaging modality that can be used to study both brain strcuture and brain function
+- Both structural and functional MRI images are acquired using the same scanner
+- Different types of brain image can be generated to emphasize contrast related to different tissue characteristics
+
+**Principles of MRI**
+
+- All magnetic resonance imaging techniques rely on a core set og physical principles
+- single atomic nuclei -> hydrogen
+
+![2c24bae9-24da-9c26-f292-329c68097e60.png](http://file.sdnu.tech/2c24bae9-24da-9c26-f292-329c68097e60.png)
+
+![1f45f617-ddc0-cd9f-b541-c1ee5a389814.png](http://file.sdnu.tech/1f45f617-ddc0-cd9f-b541-c1ee5a389814.png)
+
+![e34922b2-07c3-d19a-aa7b-dd396c1ef40e.png](http://file.sdnu.tech/e34922b2-07c3-d19a-aa7b-dd396c1ef40e.png)
+
+![53c25157-a557-e79c-a1b0-e40ae399301f.png](http://file.sdnu.tech/53c25157-a557-e79c-a1b0-e40ae399301f.png)
+
+![bad6767c-d9b0-60c0-a89b-46584b6907b8.png](http://file.sdnu.tech/bad6767c-d9b0-60c0-a89b-46584b6907b8.png)
+
+![b853dcc4-9041-7120-bcc8-77df46a96540.png](http://file.sdnu.tech/b853dcc4-9041-7120-bcc8-77df46a96540.png)
+
 
 
 补充内容
